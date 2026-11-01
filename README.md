@@ -1,6 +1,6 @@
 # HashTableLabs
 
-技术博客 [fwind's blog](https://crazyf-wind.github.io) 中示例代码的可运行版本。
+技术博客 [hashtable blog](https://crazyf-wind.github.io) 中示例代码的可运行版本。
 
 仓库按**技术领域**组织，每个示例自包含：进入对应目录，按目录内 README 运行即可。文章本身没有程序源码的，不在本仓库收录。
 
