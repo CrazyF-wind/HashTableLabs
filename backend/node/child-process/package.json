@@ -1,0 +1,13 @@
+{
+  "name": "hashtablelabs-child-process",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Node.js child_process 与 gm 示例",
+  "scripts": {
+    "spawn": "node spawn-ls.js",
+    "gm": "node gm-resize.js"
+  },
+  "dependencies": {
+    "gm": "^1.25.1"
+  }
+}

@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+*.log
+
+# child-process 示例生成的图片
+backend/node/child-process/sample*.png
+
+# Go 编译产物
+*.test
+*.out
